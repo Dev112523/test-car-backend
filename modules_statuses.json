@@ -1,0 +1,15 @@
+{
+    "StaticPages": true,
+    "Dashboard": true,
+    "DedicatedServers": true,
+    "KVMServers": true,
+    "LXCServers": true,
+    "Domains": true,
+    "SoftwareLicenses": true,
+    "Colocation": true,
+    "Orders": true,
+    "Invoices": true,
+    "Equipment": true,
+    "Graphs": true,
+    "Services": true
+}
